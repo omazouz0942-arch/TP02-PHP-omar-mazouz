@@ -16,12 +16,14 @@
         $groupe = "03";
         echo "<p>Nom et Prénom : " . $nom . " " . $prenom . "</p>";
         echo "<p>Groupe : " . $groupe . "</p>";
-    ?>";
+    
     // 1. bienvenue
     /* 2.BIENVENU
     SUR
     MONTP
-    */
+    */ 
+     ?>
+
     <p><?= "Merci d'avoir visité ma page PHP !" ?></p>
 
 </body>
